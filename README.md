@@ -5,4 +5,4 @@ This site is part of the html course<br>
 this is the first time to use front-end template 
 <hr>
 
-deploy server : self-introduce.netlify.app
+deploy server : https://self-introduce.netlify.app/
